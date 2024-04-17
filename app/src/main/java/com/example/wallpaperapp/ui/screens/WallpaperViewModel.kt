@@ -30,6 +30,7 @@ class WallpaperViewModel @Inject constructor(
     private val errorHandler: ErrorHandler
 ) : ViewModel() {
 
+
     private val _errorMessage = MutableStateFlow("")
     val errorMessage: StateFlow<String> = _errorMessage.asStateFlow()
 

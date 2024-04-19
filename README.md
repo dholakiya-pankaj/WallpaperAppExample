@@ -6,7 +6,7 @@ Wallpaper app using Jetpack Compose UI Library.
 
 ## Overview
 
-Provide an overview of your project, its purpose, and any key features or functionalities.
+Introducing my Wallpaper app, It is built with Jetpack Compose for seamless navigation and declarative UI. Application is using Unsplash API to load vast array of wallpapers. And pagination for effortless data loading. Embrace MVVM architecture for clean and organized code. Used the power of coroutines and Flow for smooth, asynchronous operations. Jetpack Compose Navigation helps to effortlessly navigate between screens. To optimize the code and improvement of performance, I have used dependency injection (Dagger2-Hilt) in the development. App is storing wallpapers locally for quick access, and app's caching system ensuring a delightful experience even if device is not connected with internet. So, Make your phone look amazing with my Wallpaper app – it's like having a mini gallery in your pocket!
 
 ## Installation
 

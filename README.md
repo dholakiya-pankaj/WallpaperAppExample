@@ -36,14 +36,6 @@ Provide usage examples or instructions on how to use your project.
 
 Explain how others can contribute to your project, including guidelines for pull requests and contributions.
 
-## License
-
-Specify the license under which your project is distributed.
-
-## Credits
-
-Give credit to any individuals or organizations whose work or resources you've used in your project.
-
 ## Contact
 
 Provide contact information or links to reach out for support, feedback, or collaboration.

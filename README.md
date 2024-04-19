@@ -16,17 +16,17 @@ Prerequisites :
 3. Android SDK
 
 Here is step by step guides on how to clone project :
-Step 1. Open Android Studio and select "File" > "New" > "Project from Version Control".
-Step 2. Enter Repository URL :
+1. Open Android Studio and select "File" > "New" > "Project from Version Control".
+2. Enter Repository URL :
 In the "Clone Repository" dialog, enter the URL "https://github.com/dholakiya-pankaj/WallpaperAppExample.git". 
-Step 3: Choose Directory :
+3. Choose Directory :
 Choose the directory where you want to save the cloned project on your local machine.
-Step 4: Choose Clone Options (Optional)
+4. Choose Clone Options (Optional)
 You can choose additional options like the branch you want to check out, or whether to initialize the project in a new directory.
-Step 5: Click "Clone" :
+5. Click "Clone" :
 Click the "Clone" button to start cloning the repository. Android Studio will download the repository and set up the project for you.
-Step 6: Wait for Gradle Sync
-Step 7: Build and Run.
+6. Wait for Gradle Sync
+7. Build and Run.
 
 ## Usage
 

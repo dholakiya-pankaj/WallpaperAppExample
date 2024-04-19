@@ -1,6 +1,6 @@
 # Wallpaper App
 
-Short description or tagline about your project.
+Wallpaper app using Jetpack Compose UI Library.
 
 ![Project Image](https://github.com/dholakiya-pankaj/WallpaperAppExample/blob/master/Wallpaper_App.png)
 

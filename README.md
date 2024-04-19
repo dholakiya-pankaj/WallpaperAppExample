@@ -41,8 +41,7 @@ Click the "Clone" button to start cloning the repository. Android Studio will do
 10. Used .toml file to centralize dependencies at one place.
 
 ## Contributing
-
-Explain how others can contribute to your project, including guidelines for pull requests and contributions.
+Feel free to contribute, let's make this app more better.
 
 ## Author
 Pankaj Dholakiya (Android Developer)

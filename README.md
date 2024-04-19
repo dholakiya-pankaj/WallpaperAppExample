@@ -1,8 +1,8 @@
 # Wallpaper App
-
-Wallpaper app using Jetpack Compose UI Library.
-
-![Project Image](https://github.com/dholakiya-pankaj/WallpaperAppExample/blob/master/Wallpaper_App.png)
+<center>
+  Wallpaper app using Jetpack Compose UI Library.
+  ![Project Image](https://github.com/dholakiya-pankaj/WallpaperAppExample/blob/master/Wallpaper_App.png)
+</center>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Click the "Clone" button to start cloning the repository. Android Studio will do
 ## Some Highlights
 1. Developed using Kotlin
 2. Used Jetpack Compose declarative UI
-3. Jetpack Compose navigation for navigating between screen
+3. Jetpack Compose navigation for navigating between screens
 4. MVVM design pattern 
 5. Retrofit2 for network calls
 6. Dagger2-Hilt for code optimzation and performance improvement

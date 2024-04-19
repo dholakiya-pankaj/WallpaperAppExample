@@ -8,9 +8,25 @@ Wallpaper app using Jetpack Compose UI Library.
 
 Introducing my Wallpaper app, It is built with Jetpack Compose for seamless navigation and declarative UI. Application is using Unsplash API to load vast array of wallpapers. And pagination for effortless data loading. Embrace MVVM architecture for clean and organized code. Used the power of coroutines and Flow for smooth, asynchronous operations. Jetpack Compose Navigation helps to effortlessly navigate between screens. To optimize the code and improvement of performance, I have used dependency injection (Dagger2-Hilt) in the development. App is storing wallpapers locally for quick access, and app's caching system ensuring a delightful experience even if device is not connected with internet. So, Make your phone look amazing with my Wallpaper app – it's like having a mini gallery in your pocket!
 
-## Installation
+## How to clone project
 
-Include instructions on how to install or set up your project, including any dependencies or prerequisites.
+Prerequisites : 
+1. Download Latest Android Studio
+2. Java Development Kit (JDK):
+3. Android SDK
+
+Here is step by step guides on how to clone project :
+Step 1. Open Android Studio and select "File" > "New" > "Project from Version Control".
+Step 2. Enter Repository URL :
+In the "Clone Repository" dialog, enter the URL "https://github.com/dholakiya-pankaj/WallpaperAppExample.git". 
+Step 3: Choose Directory :
+Choose the directory where you want to save the cloned project on your local machine.
+Step 4: Choose Clone Options (Optional)
+You can choose additional options like the branch you want to check out, or whether to initialize the project in a new directory.
+Step 5: Click "Clone" :
+Click the "Clone" button to start cloning the repository. Android Studio will download the repository and set up the project for you.
+Step 6: Wait for Gradle Sync
+Step 7: Build and Run.
 
 ## Usage
 

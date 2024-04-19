@@ -38,6 +38,7 @@ Click the "Clone" button to start cloning the repository. Android Studio will do
 7. Room Database to store wallpapers
 8. Caching mechanism to load wallpapers even in offline device mode
 9. Effective error handling
+10. Used .toml file to centralize dependencies at one place.
 
 ## Contributing
 

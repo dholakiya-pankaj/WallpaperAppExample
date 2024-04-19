@@ -2,7 +2,7 @@
 
 Short description or tagline about your project.
 
-![Project Image](images/project_wallpaper.jpg)
+![Project Image](https://github.com/dholakiya-pankaj/WallpaperAppExample/blob/master/Wallpaper_App.png)
 
 ## Overview
 

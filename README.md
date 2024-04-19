@@ -28,9 +28,16 @@ Click the "Clone" button to start cloning the repository. Android Studio will do
 6. Wait for Gradle Sync
 7. Build and Run.
 
-## Usage
-
-Provide usage examples or instructions on how to use your project.
+## Some Highlights
+1. Developed using Kotlin
+2. Used Jetpack Compose declarative UI
+3. Jetpack Compose navigation for navigating between screen
+4. MVVM design pattern 
+5. Retrofit2 for network calls
+6. Dagger2-Hilt for code optimzation and performance improvement
+7. Room Database to store wallpapers
+8. Caching mechanism to load wallpapers even in offline device mode
+9. Effective error handling
 
 ## Contributing
 
@@ -38,4 +45,4 @@ Explain how others can contribute to your project, including guidelines for pull
 
 ## Author
 Pankaj Dholakiya (Android Developer)
-Contact me at my [LinkedIn](https://www.linkedin.com/in/pankaj-dholakiya-b47a63189/).
+Contact me through my [LinkedIn](https://www.linkedin.com/in/pankaj-dholakiya-b47a63189/) account.

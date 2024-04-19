@@ -1,6 +1,7 @@
 # Wallpaper App
+Wallpaper app using Jetpack Compose UI Library.
+
 <center>
-  Wallpaper app using Jetpack Compose UI Library.
   ![Project Image](https://github.com/dholakiya-pankaj/WallpaperAppExample/blob/master/Wallpaper_App.png)
 </center>
 

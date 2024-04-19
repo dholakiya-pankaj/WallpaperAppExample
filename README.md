@@ -36,6 +36,7 @@ Provide usage examples or instructions on how to use your project.
 
 Explain how others can contribute to your project, including guidelines for pull requests and contributions.
 
-## Contact
-
-Provide contact information or links to reach out for support, feedback, or collaboration.
+## Author
+# Pankaj Dholakiya
+Android Developer 
+Contact me at my [LinkedIn](https://www.linkedin.com/in/pankaj-dholakiya-b47a63189/).

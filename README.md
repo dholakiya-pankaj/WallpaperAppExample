@@ -43,7 +43,7 @@ Click the "Clone" button to start cloning the repository. Android Studio will do
 
 ## How to start with Unsplash API
 Here's a step-by-step guide on how to get an API key and secret key for the Unsplash API:
-1. Sign Up/Login to [Unsplash website](https://unsplash.com/)
+1. Sign Up/Login to [Unsplash website](https://unsplash.com/).
 2. Create an Application:
 After logging in, go to the [Unsplash Developers](https://unsplash.com/oauth/applications) page. You'll need to create an "Application" to generate your API keys.
 3. Create a New Application by clicking on "New Application" button and fill out the required details.

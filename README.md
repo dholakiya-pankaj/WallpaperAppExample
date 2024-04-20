@@ -41,6 +41,20 @@ Click the "Clone" button to start cloning the repository. Android Studio will do
 9. Effective error handling
 10. Used .toml file to centralize dependencies at one place.
 
+## How to start with Unsplash API
+Here's a step-by-step guide on how to get an API key and secret key for the Unsplash API:
+1. Sign Up/Login to [Unsplash website](https://unsplash.com/)
+2. Create an Application:
+After logging in, go to the [Unsplash Developers](https://unsplash.com/oauth/applications) page. You'll need to create an "Application" to generate your API keys.
+3. Create a New Application by clicking on "New Application" button and fill out the required details.
+4. Agree to Terms and Submit.
+5. Get API Keys:
+After creating your application, you'll be taken to the application dashboard. Here, you'll find your Access Key and Secret Key. These are your API keys that you'll use to authenticate your requests to the Unsplash API.
+6. Use the Keys:
+Include these key in your API requests as headers (e.g., Authorization: Client-ID YOUR_ACCESS_KEY).
+
+This is all you need to do for using Unsplash api.
+
 ## Contributing
 Feel free to contribute, let's make this app more better.
 
